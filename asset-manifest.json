@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/textcontrolvideo/static/css/main.0ba8a64c.chunk.css",
-    "main.js": "/textcontrolvideo/static/js/main.0d63101b.chunk.js",
-    "main.js.map": "/textcontrolvideo/static/js/main.0d63101b.chunk.js.map",
+    "main.js": "/textcontrolvideo/static/js/main.fa04e076.chunk.js",
+    "main.js.map": "/textcontrolvideo/static/js/main.fa04e076.chunk.js.map",
     "runtime-main.js": "/textcontrolvideo/static/js/runtime-main.4db8f70e.js",
     "runtime-main.js.map": "/textcontrolvideo/static/js/runtime-main.4db8f70e.js.map",
     "static/css/2.c283699b.chunk.css": "/textcontrolvideo/static/css/2.c283699b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.c283699b.chunk.css",
     "static/js/2.c01a1326.chunk.js",
     "static/css/main.0ba8a64c.chunk.css",
-    "static/js/main.0d63101b.chunk.js"
+    "static/js/main.fa04e076.chunk.js"
   ]
 }
